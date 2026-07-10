@@ -14,8 +14,7 @@ This repository contains a **Business Intelligence (BI) dashboard** project focu
 ---
 
 ## 🛠️ Tech Stack
-- **Power BI** (or Tableau/Excel, depending on your implementation)
-- **SQL / Python** for data preprocessing
+- **Power BI** for visualization.
 - **CSV/Excel datasets** for raw sales data
 
 ---
